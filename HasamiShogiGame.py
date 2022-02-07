@@ -1,7 +1,3 @@
-# Author: Kyrne Li
-# Date: 12/03/2021
-# Description: The game of Hasami Shogi
-
 class HasamiShogiGame:
     """Represents the Hasami Shogi game"""
 
